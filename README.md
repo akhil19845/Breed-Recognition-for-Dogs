@@ -1,1 +1,5 @@
 # Breed-Recognition-for-Dogs
+In this project, we train and test a convolutional neural network (ResNet50) model to classify the dog breeds.
+
+# Description
+Dog breed classification using deep learning has become a significant application of computer vision, facilitating tasks such as pet identification and breed-specific care. In this project, we present an approach to dog breed classification utilizing deep learning techniques on the Stanford Dog dataset. With its extensive collection of annotated images spanning over 120 breeds, the dataset offers a diverse and comprehensive resource for training and evaluating deep learning models. Leveraging convolutional neural networks (CNNs) and transfer learning, our method aims to accurately predict dog breeds from images with high precision and recall. We explore various data augmentation techniques and model optimization strategies to enhance performance and generalization capabilities. Through rigorous experimentation, we demonstrate the effectiveness of our approach in addressing the complexities of breed classification while emphasizing the broader implications for animal welfare and pet-related services.
